@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Ez4p1xEL 👋
 
-<!--
-**Ez4p1xEL/Ez4p1xEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🗂️ Repositories I've Contributed To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Repository | Description |
+|------------|-------------|
+| *(coming soon)* | |
+| *(coming soon)* | |
+| *(coming soon)* | |
+
+---
+
+### 🧱 Minecraft Plugins I've Contributed To
+
+| Plugin | Description |
+|--------|-------------|
+| *(coming soon)* | |
+| *(coming soon)* | |
+| *(coming soon)* | |
+
+---
+
+### 📊 GitHub Stats
+
+![Ez4p1xEL's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ez4p1xEL&show_icons=true&theme=dark)
