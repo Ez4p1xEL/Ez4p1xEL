@@ -4,7 +4,8 @@ N/A
   
 **I'm also contributed to the Minecraft communities:**  
 ### Bukkit Plugins
-[NoBuildPlus - World Protection Plugin](https://github.com/Ez4p1xEL/NoBuildPlus)
+[NoBuildPlus - World Protection Plugin](https://github.com/Ez4p1xEL/NoBuildPlus)  
+[MyCompany - Company Management Plugin](https://github.com/Ez4p1xEL/MyCompany)
 
 <!--
 **Ez4p1xEL/Ez4p1xEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
