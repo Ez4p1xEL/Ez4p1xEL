@@ -37,7 +37,7 @@ I'm **p1xEL**, a junior programmer who is writing Bukkit/Paper plugins.
 
 </div>
 
-## 🧩 Open Source
+## 🧩 Minecraft Plugins
 
 Selected projects I maintain. Everything here is open source, MIT licensed where noted.
 
@@ -70,7 +70,7 @@ Selected projects I maintain. Everything here is open source, MIT licensed where
         <a href="https://docs.p1mc.top/PixelReward/intro.html"><img src="https://img.shields.io/badge/docs-read-8B949E?style=flat-square&labelColor=0D1117" alt="docs" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <!-- <td width="50%" valign="top">
       <!-- ═══════════════════════════════════════════════════════════════
            PLACEHOLDER-PROJECT · 预留位：有新开源项目时替换这一格
            把下面的模板复制到上面任意单元格里，再改掉 REPO / 描述 / 链接：
