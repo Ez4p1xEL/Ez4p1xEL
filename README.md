@@ -62,14 +62,6 @@ Selected projects I maintain. Everything here is open source, MIT licensed where
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ez4p1xEL/PixelReward">PixelReward</a></h3>
-      <p>A lottery/reward/prize plugin using hologram.</p>
-      <p>
-        <a href="https://github.com/Ez4p1xEL/PixelReward/stargazers"><img src="https://img.shields.io/github/stars/Ez4p1xEL/PixelReward?style=flat-square&labelColor=0D1117&color=2EA043&label=stars" alt="stars" /></a>
-        <a href="https://docs.p1mc.top/PixelReward/intro.html"><img src="https://img.shields.io/badge/docs-read-8B949E?style=flat-square&labelColor=0D1117" alt="docs" /></a>
-      </p>
-    </td>
     <!-- <td width="50%" valign="top">
       <!-- ═══════════════════════════════════════════════════════════════
            PLACEHOLDER-PROJECT · 预留位：有新开源项目时替换这一格
