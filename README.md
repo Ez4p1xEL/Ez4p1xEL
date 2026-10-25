@@ -99,7 +99,7 @@ Selected projects I maintain. Everything here is open source, MIT licensed where
 | Plugin | What it does | Stack |
 | :-- | :-- | :-- |
 | [**NoBuildPlus**](https://github.com/Ez4p1xEL/NoBuildPlus) | Flag-based world protection, no region setup required | `Bukkit` |
-| [**MyCompany**](https://github.com/Ez4p1xEL/MyCompany) | Company creation and hiring for players | · `Paper` |
+| [**MyCompany**](https://github.com/Ez4p1xEL/MyCompany) | Company creation and hiring for players | `Paper` |
 | [**MyVillager**](https://github.com/Ez4p1xEL/MyVillager) | Manage and configure villagers on your server | `Bukkit` |
 | [**PixelReward**](https://github.com/Ez4p1xEL/MyVillager) | A lottery/reward/prize plugin using hologram. | `Paper` |
 | [**SpawnPlus**](https://github.com/Ez4p1xEL/SpawnPlus) | Spawn-point setup with the details handled for you | `Bukkit` |
@@ -137,8 +137,6 @@ A small Minecraft community I'm part of — plugins here usually ship because so
 <img src="https://streak-stats.demolab.com?user=Ez4p1xEL&hide_border=true&background=0D1117&ring=2EA043&fire=57D9A3&currStreakLabel=57D9A3&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Streak" />
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ez4p1xEL&bg_color=0D1117&color=57D9A3&line=2EA043&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph" />
 
 </div>
 
