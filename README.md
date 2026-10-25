@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA043&height=190&section=header&text=p1xEL&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20small%20tools%20for%20big%20Minecraft%20servers&descAlignY=55&descSize=17" width="100%" alt="p1xEL" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA043&height=190&section=header&text=p1xEL&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20small%20tools%20for%20Minecraft%20servers&descAlignY=55&descSize=17" width="100%" alt="p1xEL" />
 
 <a href="https://github.com/Ez4p1xEL">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=57D9A3&center=true&vCenter=true&width=620&lines=Junior+programmer;Bukkit+%26+Paper+plugin+developer;Open+source%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=57D9A3&center=true&vCenter=true&width=620&lines=A+junior+programmer;Bukkit+%26+Paper+plugin+developer;" alt="Typing SVG" />
 </a>
 
 <br/>
