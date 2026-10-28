@@ -90,13 +90,13 @@ Selected projects I maintain. Everything here is open source, MIT licensed where
 
 | Plugin | What it does | Stack |
 | :-- | :-- | :-- |
-| [**NoBuildPlus**](https://github.com/Ez4p1xEL/NoBuildPlus) | Flag-based world protection, no region setup required | `Bukkit` |
+| [**NoBuildPlus**](https://github.com/Ez4p1xEL/NoBuildPlus) | Flag-based world protection, no region setup required | `Spigot` |
 | [**MyCompany**](https://github.com/Ez4p1xEL/MyCompany) | Company creation and hiring for players | `Paper` |
-| [**MyVillager**](https://github.com/Ez4p1xEL/MyVillager) | Manage and configure villagers on your server | `Bukkit` |
+| [**MyVillager**](https://github.com/Ez4p1xEL/MyVillager) | Manage and configure villagers on your server | `Spigot` |
 | [**PixelReward**](https://github.com/Ez4p1xEL/MyVillager) | A lottery/reward/prize plugin using hologram. | `Paper` |
-| [**SpawnPlus**](https://github.com/Ez4p1xEL/SpawnPlus) | Spawn-point setup with the details handled for you | `Bukkit` |
-| [**CommandPlus**](https://github.com/Ez4p1xEL/CommandPlus) | Broadcast a command to every online player at once | `Bukkit` |
-| [**HolyJoin**](https://github.com/Ez4p1xEL/HolyJoin) | Custom joining messages | `Bukkit` |
+| [**SpawnPlus**](https://github.com/Ez4p1xEL/SpawnPlus) | Spawn-point setup with the details handled for you | `Spigot` |
+| [**CommandPlus**](https://github.com/Ez4p1xEL/CommandPlus) | Broadcast a command to every online player at once | `Spigot` |
+| [**HolyJoin**](https://github.com/Ez4p1xEL/HolyJoin) | Custom joining messages | `Spigot` |
 
 <br/>
 
