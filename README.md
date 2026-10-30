@@ -61,25 +61,6 @@ Selected projects I maintain. Everything here is open source, MIT licensed where
       </p>
     </td>
   </tr>
-  <tr>
-    <!-- <td width="50%" valign="top">
-      <!-- ═══════════════════════════════════════════════════════════════
-           PLACEHOLDER-PROJECT · 预留位：有新开源项目时替换这一格
-           把下面的模板复制到上面任意单元格里，再改掉 REPO / 描述 / 链接：
-           ═══════════════════════════════════════════════════════════════
-           <h3><a href="https://github.com/Ez4p1xEL/REPO">REPO</a></h3>
-           <p>一句话说明它解决什么问题（不超过 25 个词）。</p>
-           <p>
-             <a href="https://github.com/Ez4p1xEL/REPO/stargazers"><img src="https://img.shields.io/github/stars/Ez4p1xEL/REPO?style=flat-square&labelColor=0D1117&color=2EA043&label=stars" alt="stars" /></a>
-             <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&labelColor=0D1117&logo=openjdk&logoColor=white" alt="Java" />
-           </p>
-           ═══════════════════════════════════════════════════════════════ -->
-
-      <h3>🧪 Next project</h3>
-      <p><em>Reserved for whatever ships next — this card gets replaced, not deleted.</em></p>
-      <p><img src="https://img.shields.io/badge/status-coming%20soon-8B949E?style=flat-square&labelColor=0D1117" alt="coming soon" /></p>
-    </td>
-  </tr>
 </table>
 
 ## ⛏️ Minecraft Community
